@@ -93,6 +93,9 @@
 
 ###
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <div align="left">
   <a href="https://open.spotify.com/user/ipurhi9a1tac1csxwtxuzcc9h">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ipurhi9a1tac1csxwtxuzcc9h&count=5" alt="Spotify recently played"  />
