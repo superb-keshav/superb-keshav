@@ -63,7 +63,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/keshav-singh1112/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -76,7 +76,15 @@
   <a href="ksckeshav588gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
+</div> -->
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/keshav-singh1112"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="https://instagram.com/superb_keshav"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
+  <a href="https://x.com/superb_keshav"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/></a>
+  <a href="ksckeshav588@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+</p>
 
 ###
 
